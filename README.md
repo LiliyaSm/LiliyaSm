@@ -4,7 +4,7 @@ English for kids  | Gem Puzzle (canvas) | Shelter
 :--: | :--:  | :--:
 ![English for kids ](./images/eng4kids.jpg)   | ![Gem-puzzle](./images/gem-puzzle.jpg) | ![Shelter](./images/shelter.jpg)
 [Repo](https://github.com/LiliyaSm/RS-School-2020/tree/master/english-for-kids) | [Repo](https://github.com/LiliyaSm/RS-School-2020/tree/master/gem-puzzle) | [Repo](https://github.com/LiliyaSm/RS-School-2020/tree/master/shelter)
-[Deploy](https://rolling-scopes-school.github.io/liliyasm-JS2020Q3/english-for-kids/) | [Deploy](https://rolling-scopes-school.github.io/liliyasm-JS2020Q3/gem-puzzle/)  | [Deploy](https://rolling-scopes-school.github.io/liliyasm-JS2020Q3/shelter/pages/main/main.html)
+[Deploy](https://rolling-scopes-school.github.io/liliyasm-JS2020Q3/english-for-kids/) | [Deploy](https://rolling-scopes-school.github.io/liliyasm-JS2020Q3/gem-puzzle/)  | [Deploy](https://shelter-rrs.netlify.app)
 Application for children for learning English words written in pure JS | Classic barley-break game written using Canvas  | Responsive site using design from Figma
 
 Covid Dashboard <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />  | Game "Balda" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="25" height="25" /> | Virtual keyboard
