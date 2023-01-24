@@ -1,4 +1,4 @@
-### Hi there 👋 Here are some of my study apps 
+### Hi there 👋 Here are some of my apps 
 
 English for kids  | Gem Puzzle (canvas) | Shelter
 :--: | :--:  | :--:
